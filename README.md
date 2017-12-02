@@ -1,6 +1,6 @@
 # Keras lab
 
-In this lab, you'll create a submission to [Kaggle's Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition using a neural network you've built in Keras.
+In this lab, I created a submission to [Kaggle's Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition using a neural network I built in Keras.
 
 From Kaggle:
 
